@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0909fdc8.css",
+    "main.js": "/static/js/main.941c7d62.js",
+    "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf",
+    "index.html": "/index.html",
+    "static/media/sendIcon.svg": "/static/media/sendIcon.3318e6fbceabe43731cec9a44ab71a78.svg",
+    "main.0909fdc8.css.map": "/static/css/main.0909fdc8.css.map",
+    "main.941c7d62.js.map": "/static/js/main.941c7d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0909fdc8.css",
+    "static/js/main.941c7d62.js"
+  ]
+}
