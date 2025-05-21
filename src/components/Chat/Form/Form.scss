@@ -1,0 +1,45 @@
+.chat__form {
+  display: flex;
+  // flex-direction: column;
+  justify-content: space-between;
+  transition: box-shadow 200ms, border-color 200ms;
+  margin-top: 1em;
+  border: 3px solid transparent;
+  border-radius: 10px;
+  background-color: #3d454f;
+  padding: 0.5em 1em;
+  min-block-size: min-content;
+  overflow: hidden;
+
+  &:focus-within {
+    box-shadow: 0 0 0 4px rgba(94, 167, 222, 0.1);
+    border-color: #7abcff;
+  }
+
+  & > input {
+    flex-grow: 1;
+    background-color: transparent;
+    color: inherit;
+    font-size: 18px;
+    font-variation-settings: "wght" 600;
+
+    &::placeholder {
+      color: #b9babbc4;
+    }
+  }
+
+  & > button {
+    transition: scale 200ms;
+    margin-left: 0.5em;
+
+    &:hover {
+      scale: 1.1;
+    }
+
+    & > img {
+      display: block;
+      aspect-ratio: 1 / 1;
+      height: 20px;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+.chat__message-server {
+  display: block;
+  position: relative;
+  border-radius: 10px;
+  background-color: #293038;
+  padding: 0.5em;
+  inline-size: fit-content;
+  max-inline-size: 75%;
+  overflow: hidden;
+  border-left: 3px solid #7abcff;
+}
+
+// .chat__message-server::before {
+//   position: absolute;
+//   inset: 0;
+//   background-color: #7abcff;
+//   inline-size: 3px;
+//   block-size: 100%;
+//   content: "";
+// }

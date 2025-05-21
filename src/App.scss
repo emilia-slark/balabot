@@ -1,0 +1,24 @@
+.App {
+  display: grid;
+  grid-template-columns: min(25%, 400px) 1fr;
+  gap: 1em;
+  height: 100%;
+  font-size: 16px;
+  color: #cdd2d8;
+  font-variation-settings: "wght" 500;
+}
+
+.chat-threads__container {
+  background-color: #1d2229;
+  padding: 1em;
+}
+
+@media (width <= 1024px) {
+  .App {
+    grid-template-columns: 1fr;
+  }
+
+  .chat-threads__container {
+    display: none;
+  }
+}
