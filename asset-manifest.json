@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/balabot/static/css/main.bef678dd.css",
-    "main.js": "/balabot/static/js/main.1573f766.js",
+    "main.css": "/balabot/static/css/main.4ea32564.css",
+    "main.js": "/balabot/static/js/main.49659352.js",
     "static/media/Nunito-VariableFont_wght.ttf": "/balabot/static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf",
     "index.html": "/balabot/index.html",
     "static/media/sendIcon.svg": "/balabot/static/media/sendIcon.3318e6fbceabe43731cec9a44ab71a78.svg",
-    "main.bef678dd.css.map": "/balabot/static/css/main.bef678dd.css.map",
-    "main.1573f766.js.map": "/balabot/static/js/main.1573f766.js.map"
+    "main.4ea32564.css.map": "/balabot/static/css/main.4ea32564.css.map",
+    "main.49659352.js.map": "/balabot/static/js/main.49659352.js.map"
   },
   "entrypoints": [
-    "static/css/main.bef678dd.css",
-    "static/js/main.1573f766.js"
+    "static/css/main.4ea32564.css",
+    "static/js/main.49659352.js"
   ]
 }
